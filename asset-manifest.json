@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/facebook-profile-clone/static/css/main.1808da12.css",
+    "main.js": "/facebook-profile-clone/static/js/main.2d62a63f.js",
+    "static/js/787.060b83f1.chunk.js": "/facebook-profile-clone/static/js/787.060b83f1.chunk.js",
+    "static/media/blank-profile-picture-973460_1280.webp": "/facebook-profile-clone/static/media/blank-profile-picture-973460_1280.7a6a6c54279a54d1977c.webp",
+    "index.html": "/facebook-profile-clone/index.html",
+    "main.1808da12.css.map": "/facebook-profile-clone/static/css/main.1808da12.css.map",
+    "main.2d62a63f.js.map": "/facebook-profile-clone/static/js/main.2d62a63f.js.map",
+    "787.060b83f1.chunk.js.map": "/facebook-profile-clone/static/js/787.060b83f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1808da12.css",
+    "static/js/main.2d62a63f.js"
+  ]
+}
