@@ -22,7 +22,6 @@ const Header = () => {
         <li><FaFacebookMessenger className="icon" /></li>
         <li><FaPlus className="icon" /></li>
         <li><FaBell className="icon" /></li>
-        <li><FaBars className="icon" /></li>
         <li className="profile-pic-container">
           <img src={profilePic} alt="Profile" className="profile-pic" />
         </li>

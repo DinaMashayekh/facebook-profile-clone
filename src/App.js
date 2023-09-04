@@ -21,11 +21,13 @@ const App = () => {
       <div className="profile-container">
         <ProfileInfo name={name} profilePicUrl={profilePicUrl} coverPhotoUrl={coverPhotoUrl} />
         <div className="sections-container">
+<div className="container">
           <div className="bio-container">
             <Bio />
           </div>
           <div className="posts-container">
             <PostsSection />
+          </div>
           </div>
         </div>
       </div>

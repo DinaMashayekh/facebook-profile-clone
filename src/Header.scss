@@ -48,6 +48,16 @@
     }
   }
 
+  .menu-button-container {
+    display: none; /* Hide menu button container by default */
+    align-items: center;
+  }
+
+  .menu-button {
+    font-size: 20px;
+    cursor: pointer;
+  }
+
   .nav-links {
     list-style: none;
     display: flex;
@@ -76,5 +86,20 @@
     height: 40px;
     border-radius: 50%;
     cursor: pointer;
+  }
+
+  // Media query for mobile view
+  @media (max-width: 768px) {
+    .middle-icons {
+      display: none; /* Hide middle icons in mobile view */
+    }
+
+    .menu-button-container {
+      display: flex; /* Display menu button container in mobile view */
+    }
+
+    .nav-links {
+      display: none; /* Hide nav links in mobile view */
+    }
   }
 }

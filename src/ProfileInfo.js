@@ -1,6 +1,6 @@
 import React from 'react';
 import './ProfileInfo.scss';
-import coverImage from './LightGraySolid.jpg';
+import coverImage from './73f2f643498f29d931585e2374026846.jpg';
 import profileImage from './blank-profile-picture-973460_1280.webp';
 
 const ProfileInfo = ({ name, friendsCount }) => {

@@ -1,26 +1,20 @@
 // _mixins.scss
 
-@mixin mobile {
-  @media (max-width: 767px) {
-    @content;
-  }
-}
-
-
+// Media query mixin for tablets
 @mixin tablet {
-  @media (min-width: 768px) and (max-width: 1023px) {
+  @media (max-width: 768px) {
     @content;
   }
 }
 
-@mixin mobile-styling {
-  @media (max-width: 767px) {
+// Media query mixin for mobile phones
+@mixin mobile {
+  @media (max-width: 576px) {
     @content;
   }
 }
-
-@mixin mobile-full-width {
-  @include mobile-styling {
-    width: 100%;
+@mixin desktop {
+  @media (min-width: 1024px) {
+    @content;
   }
 }
