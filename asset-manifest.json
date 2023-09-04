@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/facebook-profile-clone/static/css/main.1808da12.css",
-    "main.js": "/facebook-profile-clone/static/js/main.2d62a63f.js",
+    "main.css": "/facebook-profile-clone/static/css/main.b396478e.css",
+    "main.js": "/facebook-profile-clone/static/js/main.8871b49e.js",
     "static/js/787.060b83f1.chunk.js": "/facebook-profile-clone/static/js/787.060b83f1.chunk.js",
     "static/media/blank-profile-picture-973460_1280.webp": "/facebook-profile-clone/static/media/blank-profile-picture-973460_1280.7a6a6c54279a54d1977c.webp",
+    "static/media/jpg": "/facebook-profile-clone/static/media/73f2f643498f29d931585e2374026846.ef287e5964b4ec99765e.jpg",
     "index.html": "/facebook-profile-clone/index.html",
-    "main.1808da12.css.map": "/facebook-profile-clone/static/css/main.1808da12.css.map",
-    "main.2d62a63f.js.map": "/facebook-profile-clone/static/js/main.2d62a63f.js.map",
+    "main.b396478e.css.map": "/facebook-profile-clone/static/css/main.b396478e.css.map",
+    "main.8871b49e.js.map": "/facebook-profile-clone/static/js/main.8871b49e.js.map",
     "787.060b83f1.chunk.js.map": "/facebook-profile-clone/static/js/787.060b83f1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1808da12.css",
-    "static/js/main.2d62a63f.js"
+    "static/css/main.b396478e.css",
+    "static/js/main.8871b49e.js"
   ]
 }
